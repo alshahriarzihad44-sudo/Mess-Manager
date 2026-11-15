@@ -1,0 +1,8 @@
+
+import ReactDOM from "react-dom/client";
+import AuthGate from "./components/AuthGate";
+import "./index.css";
+
+ReactDOM.createRoot(document.getElementById("root")).render(
+  <AuthGate />
+);
