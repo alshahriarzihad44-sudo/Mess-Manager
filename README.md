@@ -92,3 +92,8 @@ Under Development 🚧
 ---
 
 *Built with the goal of making shared living management simpler and more organized.*
+## 📸 Screenshots
+
+### Dashboard
+
+![MessManager Dashboard](web/Screenshorts/dashboard.png.png)
