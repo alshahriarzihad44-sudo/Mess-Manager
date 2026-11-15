@@ -18,4 +18,4 @@ If you are developing a production application, we recommend using TypeScript wi
 
 ### Dashboard
 
-![MessManager Dashboard](web/screenshots/dashboard.png)
+![MessManager Dashboard](web/Screenshorts/dashboard.png.png)
